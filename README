@@ -1,0 +1,6 @@
+(ascii-graph:bar-graph '(("(truncate float ratio)" 10)
+                         ("(truncate float float)" 30))
+                         :width 70)
+
+(truncate float ratio) --------------o                              10
+(truncate float float) -------------------------------------------o 30
